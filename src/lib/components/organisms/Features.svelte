@@ -8,8 +8,8 @@
 
 <ContentSection
 	id="features"
-	title="Features"
-	description="Here are some of the features of this template"
+	title="Highlights"
+	description="Here are some of the standout features of SurgeOS:"
 >
 	<div class="features-container">
 		<div class="three-group-grid">

@@ -2,42 +2,42 @@ import type { Feature } from "$lib/utils/types";
 
 export default [ 
   {
-    name: 'Markdown Support',
+    name: 'Consistent',
     description:
-      'Blog posts are written in Markdown, a simple and nearly-universal format. This means you can bring over your posts from other platforms, and easily export to another if you want to.',
+      'SurgeOS is consistent, with a modern look utilizing both Material Design 2 and Material Design 3.',
     image: 'images/features/markdown.jpg',
     tags: [{ label: 'Powered by MDsveX' }]
   }, 
   {
-    name: 'Themeable',
+    name: 'Customizable',
     description:
-      'You can easily theme the entire website by changing just a few colors in the _themes.scss file.',
+      'The OS can easily be themed to express your style via the Wallpaper and style app.',
     image: 'images/features/themeable.jpg',
     tags: [{ label: 'Primary Color' }, { label: 'Secondary Color', color: 'secondary' }]
   }, 
   {
     name: 'Extensible',
     description:
-      'Components are built to be reused, and you can build new pages and layouts without much CSS knowledge. You can see all components in Histoire by running "npm run story:dev"',
+      "You can easily install a plethora of apps from AppGet, SurgeOS' app store (coming in a future release)",
     image: 'images/features/extensible.jpg',
   }, 
   {
-    name: 'Well Optimized',
+    name: 'Safe and Secure',
     description:
-      'Images are automatically optimized and lazy loaded, to ensure the website loads as fast as possible regardless of connection speed.',
+      'SurgeOS is regularly updated with security patch updates being released at least every 3 months (optimally monthly)',
     image: 'images/features/optimized.jpg',
     tags: [{ label: 'Powered by Image Transmutation' }]
   }, 
   {
     name: 'Light and Dark Modes',
     description:
-      'This template was built with dark mode in mind. It can swap between themes automatically (based on system settings) or manually. Both themes can be tweaked in the _themes.scss file.',
+      'The OS offers both light and dark mode, to ensure an optimal experience.',
     image: 'images/features/light-dark.jpg',
   },
   {
     name: 'Open Source',
     description:
-      'All code is open source, which means you can copy and modify it to your heart\'s content. All I ask is that you make your code open too so that knowledge can be passed on.',
+      'SurgeOS is partially open source, but aims to be fully open source in the future, to facilitate contribution to and improvement of the OS.',
     image: 'images/features/open-source.jpg'
   },
 ] as Feature[];
