@@ -10,43 +10,31 @@
 <div class="socials">
 	<a
 		href="#"
-		target="_blank"
+		target="https://t.me/jpbROM"
 		rel="noopener noreferrer"
-		title="Say Hi on Telegram"
+		title="Join the Telegram group!"
 	>
-		<TelegramIcon />
 	</a>
 	<a
 		href="#"
-		target="_blank"
-		rel="me noreferrer"
-		title="Say Hi on Mastodon"
+		target="https://github.com/Surge-OS"
+		rel="noopener noreferrer"
+		title="Take a look at the source code!"
 	>
-		<MastodonIcon />
 	</a>
 	<a
 		href="#"
-		target="_blank"
+		target="https://discord.gg/CJcuGb7ZHA"
 		rel="noopener noreferrer"
-		title="See my GitHub profile"
+		title="Join the Discord server!"
 	>
-		<GitHubIcon />
 	</a>
 	<a
 		href="#"
-		target="_blank"
+		target="https://www.youtube.com/@errortechyt"
 		rel="noopener noreferrer"
-		title="Connect on LinkedIn"
+		title="Take a look at ErrorTek's YT channel!"
 	>
-		<LinkedInIcon />
-	</a>
-	<a
-		href="#"
-		target="_blank"
-		rel="noopener noreferrer"
-		title="Send an email"
-	>
-		<EmailIcon />
 	</a>
 </div>
 
